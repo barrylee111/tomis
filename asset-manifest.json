@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tomis/static/css/main.04e05342.chunk.css",
-    "main.js": "/tomis/static/js/main.cca28532.chunk.js",
-    "main.js.map": "/tomis/static/js/main.cca28532.chunk.js.map",
+    "main.js": "/tomis/static/js/main.2d85dfd4.chunk.js",
+    "main.js.map": "/tomis/static/js/main.2d85dfd4.chunk.js.map",
     "runtime~main.js": "/tomis/static/js/runtime~main.d24df16a.js",
     "runtime~main.js.map": "/tomis/static/js/runtime~main.d24df16a.js.map",
     "static/css/2.31dafeb2.chunk.css": "/tomis/static/css/2.31dafeb2.chunk.css",
     "static/js/2.1a543e43.chunk.js": "/tomis/static/js/2.1a543e43.chunk.js",
     "static/js/2.1a543e43.chunk.js.map": "/tomis/static/js/2.1a543e43.chunk.js.map",
     "index.html": "/tomis/index.html",
-    "precache-manifest.c88b286835ad5d5eb1addf24f4ce4f53.js": "/tomis/precache-manifest.c88b286835ad5d5eb1addf24f4ce4f53.js",
+    "precache-manifest.6fdf1b960c632474c6e5fea6a14f0825.js": "/tomis/precache-manifest.6fdf1b960c632474c6e5fea6a14f0825.js",
     "service-worker.js": "/tomis/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/tomis/static/css/2.31dafeb2.chunk.css.map",
     "static/css/main.04e05342.chunk.css.map": "/tomis/static/css/main.04e05342.chunk.css.map"
