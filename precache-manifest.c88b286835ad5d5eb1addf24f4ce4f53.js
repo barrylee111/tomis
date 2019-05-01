@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d56f4d4765e28ef7bd68efeceed644a",
+    "revision": "0f9853eb561fa36720abd304c3ddd92c",
     "url": "/tomis/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tomis/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "da07c4ff047fef7523d4",
+    "revision": "a6d383fcfb7d5117905f",
     "url": "/tomis/static/css/main.04e05342.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tomis/static/js/2.1a543e43.chunk.js"
   },
   {
-    "revision": "da07c4ff047fef7523d4",
-    "url": "/tomis/static/js/main.4b3d3669.chunk.js"
+    "revision": "a6d383fcfb7d5117905f",
+    "url": "/tomis/static/js/main.cca28532.chunk.js"
   },
   {
     "revision": "a0807d6df37c52033865",
