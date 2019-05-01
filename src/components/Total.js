@@ -33,7 +33,7 @@ const Total = ({number}) => {
 			<div className='black f4'>
 				{'TOTAL COST'}
 			</div>
-			<div className='white f2 pt5'>
+			<div className='white f2'>
 				
 				{value}
 				
