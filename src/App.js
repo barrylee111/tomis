@@ -23,7 +23,7 @@ class App extends Component {
 
     return (
       <div className="mt6 flex-col asc">
-        <div style={{background: "#2B3030"}} className="shadow-5 flex justify-between ml6 mr6 pt3 pb3">
+        <div style={{background: "#2B3030"}} className="shadow-5 flex justify-between ml6 mr6 pt5 pb5">
           
             <Unit />
             
