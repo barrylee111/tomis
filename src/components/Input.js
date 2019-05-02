@@ -2,11 +2,7 @@ import React from 'react';
 import IncrementButton from './IncrementButton.png';
 import DecrementButton from './DecrementButton.png';
 
-let image="IncrementButton.png";
-
 const Input = ({onInputChange, onIncrement, onDecrement, number}) =>{
-	
-	let unit = number;
 
 	return (
 		<div>
@@ -43,10 +39,6 @@ const Input = ({onInputChange, onIncrement, onDecrement, number}) =>{
 						>
 						</img>
 					</div>
-					{/*<button 
-						className='w-30 grow f4 link ph3 pv2 dib white bg-light-purple'
-						onClick={onButtonSubmit }>
-						Detect</button>*/}
 				</div>
 			</div>
 		</div>
