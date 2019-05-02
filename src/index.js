@@ -9,12 +9,12 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<div
     
-    style={{
-        position: 'absolute',
-        width: '100%',
-        // top: '30%'
+    // style={{
+    //     position: 'absolute',
+    //     width: '100%',
+    //     // top: '30%'
    
-    }}
+    // }}
     ><App /></div>, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
