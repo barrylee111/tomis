@@ -16,13 +16,23 @@ class App extends Component {
     this.setState({number: event.target.value});
     console.log(this.state.number);
   }
+
+  onIncrement = () => {
+    this.setState({number: parseInt(this.state.number) + 1});
+    console.log(this.state.number);
+  }
+
+  onDecrement = () => {
+    this.setState({number: parseInt(this.state.number) - 1});
+    console.log(this.state.number);
+  }
   
   render(){
 
     document.body.style.backgroundColor="#E0F4F4";
 
     return (
-      <div className="position-center">
+      <div>
         <div style={{background: "#2B3030"}} 
           className="shadow-5 flex justify-between ml6 mr6 pb5 pt5">
           
@@ -30,6 +40,9 @@ class App extends Component {
             
             <Input 
                onInputChange={this.onInputChange}
+               onIncrement={this.onIncrement}
+               onDecrement={this.onDecrement}
+               number={this.state.number}
             />
             
           {/*<Increment />

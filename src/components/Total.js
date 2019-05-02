@@ -6,13 +6,15 @@ const Total = ({number}) => {
 
 	if(cost < 0){
 		return(
-		<div style={{width: "160px"}} className='bg-purple tc pa3 sans-serif'>
+		<div style={{width: "160px"}} className='bg-purple tc pa3 sans-serif pb0'>
 
-			<div className='black f4'>
+			<div style={{fontSize: "14px"}} className='black f4'>
 				{'TOTAL COST'}
 			</div>
-			<div className='white f2'>
-				{'$0'}
+			<div style={{position: "bottom", fontSize: "30px"}} className='white f2 bottom'>
+				
+				<p className="bottom">{'$0'}</p>
+				
 			</div>
 
 			{alert('Please enter a unit value from 0 to infinity...no negative numbers...')}
