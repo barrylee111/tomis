@@ -24,7 +24,7 @@ class App extends Component {
     return (
       <div className="position-center">
         <div style={{background: "#2B3030"}} 
-          className="shadow-5 flex justify-between ml6 mr6 pt5 pb5">
+          className="shadow-5 flex justify-between ml6 mr6 pb5">
           
             <Unit />
             
