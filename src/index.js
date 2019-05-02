@@ -12,7 +12,7 @@ ReactDOM.render(<div
     style={{
         position: 'absolute',
         width: '100%',
-        top: '30%'
+        // top: '30%'
    
     }}
     ><App /></div>, document.getElementById('root'));
