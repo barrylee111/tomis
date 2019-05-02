@@ -34,7 +34,7 @@ class App extends Component {
     return (
       <div>
         <div style={{background: "#2B3030"}} 
-          className="shadow-5 flex justify-between ml6 mr6 pb5 pt5">
+          className="shadow-5 flex justify-between ml6 pb5 pt5">
           
             <Unit />
             
