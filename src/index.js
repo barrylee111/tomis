@@ -10,9 +10,9 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(<div
     
     style={{
-        // position: 'absolute',
-        // width: '100%',
-        // top: '30%'
+        position: 'absolute',
+        width: '100%',
+        top: '30%'
    
     }}
     ><App /></div>, document.getElementById('root'));
