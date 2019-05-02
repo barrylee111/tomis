@@ -10,7 +10,6 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(<div
     
     style={{
-      	display: 'flex-wrap',
         position: 'absolute',
         width: '100%',
         top: '30%'
