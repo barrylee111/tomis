@@ -5,9 +5,12 @@ const Input = ({onInputChange}) =>{
 		<div>
 			<div className='center'>
 				<div className='center form asc'>
-					<p className='tc f4 gray'># OF UNITS</p>
+					<p 
+						style={{fontSize: '14px'}}
+						className='tc gray'># OF UNITS
+					</p>
 					<input 
-						className='f4 pa2 w-25 flex center' 
+						className='f4 tc pa2 w-25 flex center' 
 						type='text' 
 						onChange={ onInputChange }
 

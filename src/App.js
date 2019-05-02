@@ -22,8 +22,9 @@ class App extends Component {
     document.body.style.backgroundColor="#E0F4F4";
 
     return (
-      <div className="mt4 mb4 flex-col asc">
-        <div style={{background: "#2B3030"}} className="shadow-5 flex justify-between ml6 mr6 pt4 pb4">
+      <div className="position-center">
+        <div style={{background: "#2B3030"}} 
+          className="shadow-5 flex justify-between ml6 mr6 pt5 pb5">
           
             <Unit />
             

@@ -28,14 +28,14 @@ const Total = ({number}) => {
 		else{value = value =  '$' + parseFloat(Math.round(cost* 100) / 100).toFixed(0)}
 
 		return(
-		<div style={{width: "160px"}} className='bg-purple tc pa3 sans-serif'>
+		<div style={{width: "160px"}} className='bg-purple tc pa3 sans-serif pb0'>
 
-			<div className='black f4'>
+			<div style={{fontSize: "14px"}} className='black f4'>
 				{'TOTAL COST'}
 			</div>
-			<div className='white f2'>
+			<div style={{position: "bottom", fontSize: "30px"}} className='white f2 bottom'>
 				
-				{value}
+				<p className="bottom">{value}</p>
 				
 			</div>
 		</div>
