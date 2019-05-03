@@ -32,15 +32,15 @@ class App extends Component {
     document.body.style.backgroundColor="#E0F4F4";
 
     return (
-      <div>
+      <div className="mr4 ml4">
         <div style={{
             background: "#2B3030", 
-            marginRight: "40px",
-            marginLeft: "40px",
-            paddingTop: "60px",
-            paddingBottom: "60px"
+            // marginRight: "40px",
+            // marginLeft: "40px",
+            // paddingTop: "60px",
+            // paddingBottom: "60px"
           }} 
-          className="shadow-5 flex justify-between">
+          className="pt5 pb5 flex justify-between shadow-5">
           
             <Unit />
             
