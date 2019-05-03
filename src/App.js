@@ -32,7 +32,7 @@ class App extends Component {
     document.body.style.backgroundColor="#E0F4F4";
 
     return (
-      <div className="mr4 ml4">
+      <div className="mh5">
         <div style={{
             background: "#2B3030", 
             // marginRight: "40px",
@@ -40,7 +40,7 @@ class App extends Component {
             // paddingTop: "60px",
             // paddingBottom: "60px"
           }} 
-          className="pt4 pb4 flex justify-between shadow-5">
+          className="pv5 flex justify-between shadow-5">
           
             <Unit />
             
