@@ -7,7 +7,7 @@ const Input = ({onInputChange, onIncrement, onDecrement, number}) =>{
 	return (
 		<div>
 			<div className='center'>
-				<div className='center form asc'>
+				<div className='center form asc sans-serif'>
 					<p 
 						style={{fontSize: '14px'}}
 						className='tc gray'># OF UNITS
@@ -24,8 +24,8 @@ const Input = ({onInputChange, onIncrement, onDecrement, number}) =>{
 						>
 						</img>
 						<input 
-							style={{width: '100px'}}
-							className='f4 tc pa2 flex center' 
+							style={{width: '100px', fontSize:'20px'}}
+							className='b tc pa2 flex center' 
 							type='text' 
 							onChange={ onInputChange }
 							value={number}
