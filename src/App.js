@@ -37,8 +37,8 @@ class App extends Component {
             background: "#2B3030", 
             marginRight: "40px",
             marginLeft: "40px",
-            paddingTop: "20px",
-            paddingBottom: "20px"
+            paddingTop: "60px",
+            paddingBottom: "60px"
           }} 
           className="shadow-5 flex justify-between">
           
