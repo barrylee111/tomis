@@ -35,10 +35,12 @@ class App extends Component {
       <div>
         <div style={{
             background: "#2B3030", 
-            marginTop: "40px",
-            marginBottom: "40px"
+            marginRight: "40px",
+            marginLeft: "40px",
+            paddingTop: "20px",
+            paddingBottom: "20px"
           }} 
-          className="shadow-5 flex justify-between pb5 pt5">
+          className="shadow-5 flex justify-between">
           
             <Unit />
             
