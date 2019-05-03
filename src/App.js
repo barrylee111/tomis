@@ -32,9 +32,11 @@ class App extends Component {
     document.body.style.backgroundColor="#E0F4F4";
 
     return (
-      <div className="mh5">
+      <div>
         <div style={{
-            background: "#2B3030", 
+            background: "#2B3030",
+            marginLeft: "40px",
+            marginRight: "40px" 
           }} 
           className="pv5 flex justify-between shadow-5">
           
