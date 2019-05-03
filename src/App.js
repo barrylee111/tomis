@@ -40,7 +40,7 @@ class App extends Component {
             // paddingTop: "60px",
             // paddingBottom: "60px"
           }} 
-          className="pt5 pb5 flex justify-between shadow-5">
+          className="pt4 pb4 flex justify-between shadow-5">
           
             <Unit />
             
