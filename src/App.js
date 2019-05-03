@@ -33,12 +33,12 @@ class App extends Component {
 
     return (
       <div>
-        <div style={{
-            background: "#2B3030",
+        <div 
+          style={{
             marginLeft: "40px",
             marginRight: "40px" 
           }} 
-          className="pv5 flex justify-between shadow-5">
+          className="ml4 bg-gray pv5 flex justify-between shadow-5">
           
             <Unit />
             

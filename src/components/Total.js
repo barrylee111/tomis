@@ -8,10 +8,10 @@ const Total = ({number}) => {
 		return(
 		<div style={{width: "160px"}} className='bg-purple tc pa3 sans-serif pb0'>
 
-			<div style={{fontSize: "14px"}} className='black f4'>
+			<div className='black f1'>
 				{'TOTAL COST'}
 			</div>
-			<div style={{position: "bottom", fontSize: "30px"}} className='white f2 bottom'>
+			<div className='white f3 bottom'>
 				
 				<p className="bottom">{'$0'}</p>
 				
@@ -32,10 +32,10 @@ const Total = ({number}) => {
 		return(
 		<div style={{width: "160px"}} className='bg-purple tc pa3 sans-serif pb0'>
 
-			<div style={{fontSize: "14px"}} className='black f4'>
+			<div className='black f1'>
 				{'TOTAL COST'}
 			</div>
-			<div style={{position: "bottom", fontSize: "30px"}} className='white f2 bottom'>
+			<div className='white f3 bottom'>
 				
 				<p className="bottom">{value}</p>
 				
